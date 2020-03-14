@@ -10,6 +10,6 @@ Informationen über covid19
   - [Tableau Dashboard](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
   
 ## Podcasts
-  - [Prof. Dorsten - Virologe an der Charité Berlin](https://www.ndr.de/nachrichten/info/podcast4684.html)
+  - [Prof. Drosten - Virologe an der Charité Berlin](https://www.ndr.de/nachrichten/info/podcast4684.html)
   
 
