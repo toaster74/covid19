@@ -2,7 +2,7 @@
 Informationen über covid19
 
 ## Wikipedia
-  - [Wikipedia France über Entwicklung in Frankreich](https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_maladie_%C3%A0_coronavirus_de_2019-2020)
+  - [Wikipedia France über Entwicklung in Frankreich](https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_maladie_%C3%A0_coronavirus_de_2020_en_France)
   - [Wikipedia Deutschland über Entwicklung in Deutschland](https://de.wikipedia.org/wiki/COVID-19-Pandemie)
   
 ## Dashboards
