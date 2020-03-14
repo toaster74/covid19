@@ -3,7 +3,7 @@ Informationen über covid19
 
 ## Wikipedia
   - [Wikipedia France über Entwicklung in Frankreich](https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_maladie_%C3%A0_coronavirus_de_2020_en_France)
-  - [Wikipedia Deutschland über Entwicklung in Deutschland](https://de.wikipedia.org/wiki/COVID-19-Pandemie)
+  - [Wikipedia Deutschland über Entwicklung in Deutschland](https://de.wikipedia.org/wiki/COVID-19-F%C3%A4lle_in_Deutschland)
   
 ## Dashboards
   - [John Hopkins University (JHU) Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
