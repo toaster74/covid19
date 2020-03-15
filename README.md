@@ -7,6 +7,7 @@ Informationen über covid19
   
 ## Dashboards
   - [John Hopkins University (JHU) Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
+    - [Rohdaten von JHU](https://github.com/CSSEGISandData/COVID-19)
   - [Tableau Dashboard](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
   
 ## Podcasts
