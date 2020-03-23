@@ -2,6 +2,8 @@ library(data.table)
 library(lattice)
 library(ggplot2)
 
+onsetX <- 100
+
 x <- list.files("COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/", pattern = ".csv", full.names = TRUE)
 x <- data.frame(file = x, date = substr(basename(x), 1, 10), stringsAsFactors = FALSE)
 x <- split(x$file, x$date)
@@ -19,15 +21,23 @@ x <- x[, c("date", "area", "confirmed", "death", "recovered")]
 subset(x, area %in% "Belgium" & confirmed > 1)
 
 x <- x[order(x$date, x$area, decreasing = TRUE), ]
-x <- x[, days_since_case_onset := as.integer(date - min(date[confirmed > 75])), by = list(area)]
+x <- x[, days_since_case_onset := as.integer(date - min(date[confirmed > onsetX])), by = list(area)]
 x <- x[, newly_confirmed := as.integer(confirmed - shift(confirmed, n = 1, type = "lead")), by = list(area)]
 onset <- subset(x, days_since_case_onset == 0, select = c("date", "area", "confirmed"))
 onset[order(onset$date), ]
 
-data <- subset(x, days_since_case_onset >= 0 & days_since_case_onset < 30 &
-                       area %in% c("Germany", "Hubei", "France", "Belgium", "Singapore", "Netherlands", "Italy"))
+data <- subset(x, days_since_case_onset >= 0 & days_since_case_onset < 100 &
+                       area %in% c("Switzerland", "Germany", "France", "Belgium", "Singapore", "Netherlands", "Italy"))
 
-p <- ggplot(data, aes(days_since_case_onset, log(confirmed), color=area)) + geom_point() + geom_line()
+#data <- subset(x, days_since_case_onset >= 0 & days_since_case_onset < 100 &
+#                 area %in% c("Germany", "Hubei", "France", "Belgium", "Singapore", "Netherlands", "Italy"))
+
+
+p <- ggplot(data, aes(days_since_case_onset, log(confirmed), color=area)) + 
+  geom_point() + geom_line()
+
+#data2 <- subset(x, area %in% c("Germany", "France", "Belgium", "Singapore", "Netherlands", "Italy"))
+#p <- ggplot(data2, aes(date, confirmed, color=area)) + geom_point() + geom_line()
 
 #p <- xyplot(log(confirmed) ~ days_since_case_onset | "Log(confirmed cases) of Corona since onset of sick person nr 75", 
 #       groups = area,
