@@ -7,6 +7,7 @@ Informationen über covid19
   - Grand-Est
     - [France3 Region Grand-Est](https://france3-regions.francetvinfo.fr/grand-est/)
     - [France.TV Grand-Est](https://www.france.tv/france-3/grand-est/)
+    - [Republicain Lorrain](https://www.republicain-lorrain.fr/)
   
 ## Dashboards
   - [John Hopkins University (JHU) Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
