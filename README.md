@@ -10,7 +10,7 @@ Informationen über covid19
     - [Republicain Lorrain](https://www.republicain-lorrain.fr/)
   
 ## Dashboards
-  - [John Hopkins University (JHU) Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
+  - [John Hopkins University (JHU) Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
     - [Rohdaten der JHU](https://github.com/CSSEGISandData/COVID-19)
   - [Berliner Morgen Post](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
   - [Situation en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5e09dff7cb434fb194e22261689e2887)
