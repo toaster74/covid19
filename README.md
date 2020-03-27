@@ -16,6 +16,7 @@ Informationen über covid19
   - [Situation en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5e09dff7cb434fb194e22261689e2887)
   - [Tableau Dashboard](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
   - [RKI Dashboard nach Landkreise](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/)
+  - [ncov19.live](https://ncov2019.live/)
   
 ## Podcasts
   - [Prof. Drosten - Virologe an der Charité Berlin](https://www.ndr.de/nachrichten/info/podcast4684.html)
