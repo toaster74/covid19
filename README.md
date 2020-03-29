@@ -21,4 +21,5 @@ Informationen über covid19
 ## Podcasts
   - [Prof. Drosten - Virologe an der Charité Berlin](https://www.ndr.de/nachrichten/info/podcast4684.html)
   
-
+## Simulations
+  - [Pandemic Preparedness Planning for COVID-19](http://covidsim.eu/)
