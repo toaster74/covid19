@@ -22,4 +22,5 @@ Informationen über covid19
   - [Prof. Drosten - Virologe an der Charité Berlin](https://www.ndr.de/nachrichten/info/podcast4684.html)
   
 ## Simulations
-  - [Pandemic Preparedness Planning for COVID-19](http://covidsim.eu/)
+  - [CovidSIM - Epimos GmbH - Pandemic Preparedness Planning for COVID-19](http://covidsim.eu/)
+  - [Universität Basel - Simlulation](https://neherlab.org/covid19/)
