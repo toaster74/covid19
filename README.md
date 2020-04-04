@@ -13,6 +13,7 @@ Informationen über covid19
   - [John Hopkins University (JHU) Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
     - [Rohdaten der JHU](https://github.com/CSSEGISandData/COVID-19)
   - [Berliner Morgen Post](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
+  - [Données du gouvernement Français](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees)
   - [Situation en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5e09dff7cb434fb194e22261689e2887)
   - [Tableau Dashboard](https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases)
   - [RKI Dashboard nach Landkreise](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/) und [aktuelle Fallzahlen RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
